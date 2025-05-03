@@ -19,11 +19,11 @@
 
 ## 🚀 Getting Started
 
-
+```bash
 git clone https://github.com/yourusername/tictacto.git
 cd tictacto
 open index.html  # or use Live Server
-<br>
+
 🧱 Tech Stack
 🧱 HTML
 
@@ -31,7 +31,7 @@ open index.html  # or use Live Server
 
 🧠 JavaScript
 
-<br>
+
 📦 File Structure
 pgsql
 Copy
@@ -40,7 +40,7 @@ tictacto/
 ├── index.html
 ├── style.css
 └── script.js
-<br>
+
 💡 Future Improvements
 🤖 Single-player mode with AI (easy, medium, hard)
 
@@ -54,12 +54,12 @@ tictacto/
 
 🔊 Sound effects and animations
 
-<br>
+
 🖼️ Preview
 (Add a screenshot or screen recording GIF of the game if available)
 
-<br>
+
 📜 License
 MIT License
-
-<p align="center">🎯 Simple. Fun. Timeless. Made with 💙</p> 
+```
+<p align="center">🎯 Simple. Fun. Timeless. Made with 💙</p>
