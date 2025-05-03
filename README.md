@@ -19,7 +19,7 @@
 
 ## 🚀 Getting Started
 
-```bash
+
 git clone https://github.com/yourusername/tictacto.git
 cd tictacto
 open index.html  # or use Live Server
@@ -62,4 +62,4 @@ tictacto/
 📜 License
 MIT License
 
-<p align="center">🎯 Simple. Fun. Timeless. Made with 💙</p> ```
+<p align="center">🎯 Simple. Fun. Timeless. Made with 💙</p> 
